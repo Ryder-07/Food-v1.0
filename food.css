@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#landing{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/background-pizza-home-top.jpg");
+    background-position: 50% 0%;
+}
+#menu{
+    background-image:url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/background-tree-white.jpg");
+    background-position: 50% 0;
+}
