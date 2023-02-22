@@ -3,6 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.oswald{
+    font-family: 'Oswald', sans-serif;
+}
 #landing{
     background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/background-pizza-home-top.jpg");
     background-position: 50% 0%;
@@ -10,4 +13,41 @@
 #menu{
     background-image:url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/background-tree-white.jpg");
     background-position: 50% 0;
+}
+.img{
+    background-size: cover;
+    position:50% 50%;
+}
+.i1{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_1-320x320.png");
+}
+.i2{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_2-320x320.png");
+}
+.i3{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_3-320x320.png");
+}
+.i4{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_4-320x320.png");
+}
+.i5{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_5-320x320.png");
+}
+.i6{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_6-320x320.png");
+}
+.i7{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_7-320x320.png");
+}
+.i8{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_8-320x320.png");
+}
+.i9{
+    background-image: url("https://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/06/inner_pizza_9-320x320.png");
+}
+#offer{
+
+    background-attachment:fixed;
+    background-image: url("./assets/offer\ background.jpg");
+    background-position: 50% 0%;
 }
